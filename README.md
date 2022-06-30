@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
-- [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://github.com/JonCyberGuy/JonCyberGuy/LABURL)
+- [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://github.com/JonCyberGuy/ActiveDirectoryLab)
 
 <h2>👨🏽‍🎓 Education</h2>
 
