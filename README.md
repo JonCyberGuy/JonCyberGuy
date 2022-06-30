@@ -1,14 +1,12 @@
 <h1>Hi, I'm Jonathan! <br/><a href="https://github.com/JonCyberGuy"</a> <a href="www.linkedin.com/in/Jwills9315">Cybersecurity Professional</a></a></h1>
 
 <h2>👨‍💻 Cybersecrurity Projects:</h2>
-
-- [Active Directory Home Lab](https://github.com/JonCyberGuy/JonCyberGuy/LABURL)
  
-- [Active Directory Bulk User Creation Using PowerShell](https://github.com/JonCyberGuy/JonCyberGuy/LABURL)
+- [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://github.com/JonCyberGuy/JonCyberGuy/LABURL)
 
 <h2>Certifications</h2>
 
-- [Insert Here] 
+- 🔭 I’m currently working on my Bacherlors in Cybersecurity and obtaining certifications
 
 <h2> 🤳 Connect with me:</h2>
 
