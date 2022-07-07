@@ -3,6 +3,7 @@
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
 - [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://github.com/JonCyberGuy/ActiveDirectoryLab)
+- [Nessus Essentials Vulnerability Management Lab](https://github.com/JonCyberGuy/VulnerabilityManagement)
 
 <h2>👨🏽‍🎓 Education</h2>
 
