@@ -1,6 +1,6 @@
 <h1>Hello, I'm Jonathan! <br/><a href="https://github.com/JonCyberGuy"</a> <a href="www.linkedin.com/in/Jwills9315">Cybersecurity Professional</a></a></h1>
 
-<h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
+<h2>👨🏾‍💻 Aspiring Cybersecrurity Projects:</h2>
  
 - [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://github.com/JonCyberGuy/ActiveDirectoryLab)
 - [Nessus Essentials Vulnerability Management Lab](https://github.com/JonCyberGuy/VulnerabilityManagement)
