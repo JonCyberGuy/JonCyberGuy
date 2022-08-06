@@ -11,7 +11,7 @@
 
 <h2>📜 Certifications</h2>
 
-- I’m currently working on obtaining certifications
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
 
 <h2> 🤳 Connect with me:</h2>
 
