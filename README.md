@@ -11,7 +11,7 @@
 
 <h2>📜 Certifications</h2>
 
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/93a26747-ca7b-4210-990c-a7a39d7deb4c/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
