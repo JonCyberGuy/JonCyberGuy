@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jonathan! <br/><a href="https://github.com/JonCyberGuy"</a> <a href="www.linkedin.com/in/Jwills9315">Cybersecurity Professional</a></a></h1>
+<h1>Hello, I'm Jonathan! <br/><a href="https://github.com/JonCyberGuy"</a> Cybersecurity Professional</a> </h1>
 
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
