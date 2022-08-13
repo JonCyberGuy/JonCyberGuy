@@ -12,6 +12,7 @@
 <h2>📜 Certifications</h2>
 
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/93a26747-ca7b-4210-990c-a7a39d7deb4c/public_url)
+- [Microsoft Certified: Power Platform Fundamentals](https://www.credly.com/badges/ccfa608b-606c-4214-b6c4-47f85b142dba/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
