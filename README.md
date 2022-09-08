@@ -11,8 +11,11 @@
 
 <h2>📜 Certifications</h2>
 
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/426c47ab-8989-41bd-8bcc-ec4dd6fc80ca/public_url)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/93a26747-ca7b-4210-990c-a7a39d7deb4c/public_url)
 - [Microsoft Certified: Power Platform Fundamentals](https://www.credly.com/badges/ccfa608b-606c-4214-b6c4-47f85b142dba/public_url)
+- [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/b2c70be3-5202-485a-83ba-45daf95642c9/public_url)
+- [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/17a91ced-9d1e-496c-ac27-65d5a728c516/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
