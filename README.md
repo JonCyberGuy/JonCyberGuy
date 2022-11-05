@@ -11,7 +11,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [CompTIA: A+](https://www.credly.com/badges/f1562ddb-f080-4433-90e1-d6ba20acd8ae/public_url){:target="_blank"}
+- [CompTIA: A+](https://www.credly.com/badges/f1562ddb-f080-4433-90e1-d6ba20acd8ae/public_url){:target="_blank" rel="noopener"}
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/426c47ab-8989-41bd-8bcc-ec4dd6fc80ca/public_url)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/93a26747-ca7b-4210-990c-a7a39d7deb4c/public_url)
 - [Microsoft Certified: Power Platform Fundamentals](https://www.credly.com/badges/ccfa608b-606c-4214-b6c4-47f85b142dba/public_url)
