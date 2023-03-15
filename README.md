@@ -2,6 +2,7 @@
 
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
+- [Microsoft Sentinel Live Attack Demonstration Home Lab](https://github.com/JonCyberGuy/SIEM-HomeLab)
 - [Active Directory Home Lab With Bulk User Creation Using PowerShell](https://github.com/JonCyberGuy/ActiveDirectoryLab)
 - [Nessus Essentials Vulnerability Management Lab](https://github.com/JonCyberGuy/VulnerabilityManagement)
 
