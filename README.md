@@ -8,7 +8,7 @@
 
 <h2>👨🏽‍🎓 Education</h2>
 
-- Bachelors in Cybersecurity & Information Assurance
+- Bachelor's in Cybersecurity & Information Assurance
 
 <h2>📜 Certifications</h2>
 
