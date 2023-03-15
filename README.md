@@ -23,7 +23,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Jonathan Williams | Website" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/327/globe-with-meridians_1f310.png" />][Website]
+[<img align="left" alt="Jonathan Williams | Website" width="22px" src="https://em-content.zobj.net/thumbs/160/whatsapp/326/globe-with-meridians_1f310.png" />][Website]
 [<img align="left" alt="Jonathan Williams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [Website]: https://jonthecyberguy.tech/
